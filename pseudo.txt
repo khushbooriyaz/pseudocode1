@@ -1,0 +1,5 @@
+Start
+Input=A
+Input=B
+Sum=A+B
+End
